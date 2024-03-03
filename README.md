@@ -1,12 +1,8 @@
-# Modularize code for creating a model with transfer learning using Pytorch
+### Modularize code for creating a model with transfer learning using Pytorch
 
+This project shows how to create a pytorch model in a modular way.  
+This way of creating models allow for the following beneifts:
+- Extensibility makes the code more maintainable by separating different functionalities in the code; 
+- Reusability; you can easily take and reuse different parts of the code for another project
+- Readability; it is easier for you to diagnose and troubleshoot problems
 
-### What will this model show?
-what would this modularize model code show? how will it help my technical doc?
-- for the model building section it will give me something to show and also I can speak about how modularizing it helps 
-make it more production ready, and extensible
-- trasnfer learning is also a plus to show
-- code to deploy it to a end point is another plus
-- code to include the use of multiple GPUs is also a plus
-
-Does the code for food matching matters? I dont think so becasue it the same concepts
